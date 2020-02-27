@@ -6,7 +6,7 @@ PhishSend is a penetration testing and red teaming tool that automates the proce
 
 Clone the GitHub repository
 ```
-git clone https://github.com/jamesm0rr1s/Send-and-Track-Phishing-Campaigns /opt/jamesm0rr1s/Send-and-Track-Phishing-Campaigns
+git clone https://github.com/centralinfosec/Send-and-Track-Phishing-Campaigns /opt/Central-InfoSec/Send-and-Track-Phishing-Campaigns
 ```
 
 ## Usage
@@ -17,14 +17,14 @@ git clone https://github.com/jamesm0rr1s/Send-and-Track-Phishing-Campaigns /opt/
  - (Optional) Add a plain text message to the "messagePlain.txt" file
  - Start the phishing campaign with the following command:
 ```
-python /opt/jamesm0rr1s/Send-and-Track-Phishing-Campaigns/sendPhishingEmails.py
+python /opt/Central-InfoSec/Send-and-Track-Phishing-Campaigns/sendPhishingEmails.py
 ```
 
 ## Viewing Phishing Logs
 
 Check for phishing clicks with the following command:
 ```
-python /opt/jamesm0rr1s/Send-and-Track-Phishing-Campaigns/getPhishingLogs.py
+python /opt/Central-InfoSec/Send-and-Track-Phishing-Campaigns/getPhishingLogs.py
 ```
 
 ## Example Screenshots
